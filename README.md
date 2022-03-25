@@ -1,7 +1,7 @@
 
 # Colored Toast
 
-A brief description of what this project does and who it's for
+This view is a custom toast is included success, fail, warning , info and changeable toast arguments .
 
 
 ## Installation
