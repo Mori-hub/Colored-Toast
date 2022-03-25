@@ -32,7 +32,7 @@ This view is a custom toast is included success, fail, warning , info and change
                         Gravity.BOTTOM // Ignore 0
                 ).show());
     }
-![Screenshot_2022-03-25-20-14-00-709_com src tools](https://user-images.githubusercontent.com/53067774/160169777-3021113f-06d0-47a4-b61e-030ee267834c.jpg)
+<img src="(https://user-images.githubusercontent.com/53067774/160169777-3021113f-06d0-47a4-b61e-030ee267834c.jpg)" width="128"/>
 ![Screenshot_2022-03-25-20-14-05-984_com src tools](https://user-images.githubusercontent.com/53067774/160169787-7e5932e3-e655-47dc-9acd-d3b5e3bde725.jpg)
 ![Screenshot_2022-03-25-20-14-11-506_com src tools](https://user-images.githubusercontent.com/53067774/160169799-e814be6c-80ad-4f5e-8fab-785e81531964.jpg)
 ![Screenshot_2022-03-25-20-14-14-971_com src tools](https://user-images.githubusercontent.com/53067774/160169811-cb655179-8135-426a-b591-53917d9d1f4c.jpg)
