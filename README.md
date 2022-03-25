@@ -32,10 +32,4 @@ This view is a custom toast is included success, fail, warning , info and change
                         Gravity.BOTTOM // Ignore 0
                 ).show());
     }
-<img src="https://user-images.githubusercontent.com/53067774/160169777-3021113f-06d0-47a4-b61e-030ee267834c.jpg" width="128"/>
-<img src="https://user-images.githubusercontent.com/53067774/160169787-7e5932e3-e655-47dc-9acd-d3b5e3bde725.jpg" width="128"/>
-<img src="https://user-images.githubusercontent.com/53067774/160169799-e814be6c-80ad-4f5e-8fab-785e81531964.jpg" width="128"/>
-<img src="https://user-images.githubusercontent.com/53067774/160169811-cb655179-8135-426a-b591-53917d9d1f4c.jpg" width="128"/>
-<img src="https://user-images.githubusercontent.com/53067774/160169821-1fb3b5b5-b598-4f53-b95c-9dd97a08f27e.jpg" width="128"/>
-<img src="https://user-images.githubusercontent.com/53067774/160169826-f005d538-e092-4a58-ab75-8ef5d32b08ae.jpg" width="128"/>
-
+<img src="https://user-images.githubusercontent.com/53067774/160169777-3021113f-06d0-47a4-b61e-030ee267834c.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/53067774/160169787-7e5932e3-e655-47dc-9acd-d3b5e3bde725.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/53067774/160169799-e814be6c-80ad-4f5e-8fab-785e81531964.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/53067774/160169811-cb655179-8135-426a-b591-53917d9d1f4c.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/53067774/160169821-1fb3b5b5-b598-4f53-b95c-9dd97a08f27e.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/53067774/160169826-f005d538-e092-4a58-ab75-8ef5d32b08ae.jpg" width="15%"></img> 
