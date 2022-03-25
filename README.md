@@ -3,6 +3,12 @@
 
 This view is a custom toast is included success, fail, warning , info and changeable toast arguments .
 
+# Features
+- Success toast
+- Fail toast
+- Warning toast
+- Info's toast
+- Changeable arguments toast
 
 ## Installation
 
