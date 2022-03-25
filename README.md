@@ -27,3 +27,4 @@ This view is a custom toast is included success, fail, warning , info and change
                         Gravity.BOTTOM // Ignore 0
                 ).show());
     }
+![rate](https://user-images.githubusercontent.com/53067774/160168296-f216dc85-2eff-414a-9f5b-53f0dfb45de6.png)
